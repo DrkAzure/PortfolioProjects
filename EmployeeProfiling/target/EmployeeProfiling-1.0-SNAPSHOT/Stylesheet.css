@@ -1,0 +1,19 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 28 Nov 2023, 11:23:38 pm
+    Author     : Win11
+*/
+.resize{
+    resize: none;
+}
+
+.formcontainer{
+    line-height: 1.6;
+}
+input[type="submit"]{
+    width: 130px;
+    height: 30px;
+}
